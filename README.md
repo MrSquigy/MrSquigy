@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Jonathan
 
-- 🔭 I’m currently working on [cliculator](https://github.com/MrSquigy/cliculator) (For below)
-- 🦀 I’m currently learning rust!
-- 📫 How to reach me: [@MrSquigy on twitter](https://www.twitter.com/MrSquigy)
+- 📝 I just started a [blog](https://mrsquigy.github.io/blog)
+- 🍞 I'm working on Baker, an app that keeps track of baking profits
+- 📫 You can reach me at [MrSquigy on twitter](https://www.twitter.com/MrSquigy)
 
 <!--
 **MrSquigy/MrSquigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
