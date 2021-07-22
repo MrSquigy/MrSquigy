@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Jonathan
-
-- 📝 I just started a [blog](https://mrsquigy.github.io/blog)
-- 🍞 I'm working on Baker, an app that keeps track of baking profits
+- 🎓 I recently finished uni
+- 🐍 I mainly program in Python, but I also do other things
 - 📫 You can reach me at [MrSquigy on twitter](https://www.twitter.com/MrSquigy)
 
 <!--
