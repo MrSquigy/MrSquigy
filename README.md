@@ -1,7 +1,8 @@
-### Hi 👋 I'm Jonathan
-- 🎓 I recently finished uni
-- 🐍 I mainly program in Python, but I also do other things
-- 📫 You can reach me at [MrSquigy on twitter](https://www.twitter.com/MrSquigy)
+- 👨‍💻 I work mainly in C++, but occassionally Python
+- 🔮 I try out lots of different stuff, even if it doesn't become public
+- 🐦 I'm [@MrSquigy](https://www.twitter.com/MrSquigy) on twitter
+- ☁️ I'm [mrsquigy.bsky.social](https://bsky.app/profile/mrsquigy.bsky.social) on bluesky
+- 📺 I stream on [twitch](https://twitch.tv/MrSquigy)
 
 <!--
 **MrSquigy/MrSquigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=MrSquigy&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=MrSquigy&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+-->
