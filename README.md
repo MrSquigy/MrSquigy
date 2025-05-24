@@ -2,7 +2,6 @@
 - 🔮 I try out lots of different stuff, even if it doesn't become public
 - 🐦 I'm [@MrSquigy](https://www.twitter.com/MrSquigy) on twitter
 - ☁️ I'm [mrsquigy.bsky.social](https://bsky.app/profile/mrsquigy.bsky.social) on bluesky
-- 📺 I stream on [twitch](https://twitch.tv/MrSquigy)
 
 <!--
 **MrSquigy/MrSquigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
